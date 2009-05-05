@@ -1,4 +1,5 @@
 #summary A collection of programs used for distributed generation and 3D rendering of solar system gravity simulations.
+#labels Featured,Phase-Requirements
 
 = Stableorbit =
 
