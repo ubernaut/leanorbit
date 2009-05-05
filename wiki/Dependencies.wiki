@@ -1,17 +1,11 @@
-#summary One-sentence summary of this page.
-#labels Phase-Deploy
+#summary A description of the dependencies required to run stableorbit.
+#labels Phase-Deploy,Featured,Phase-Implementation
 
-= Introduction =
+= Required Software =
 
-Add your content here.
+StableOrbit is built on Python2.5 and uses the Panda3d engine for visualisation. This ensures cross platform compatibility for Windows, Macintosh, and Linux. Other dependencies are required for the files in the beta folder but are under development and beyond the scope of this document.
 
-
-= Details =
-
-
-Dependencies
-
-StableOrbit is built on Python2.5 and uses the Panda3d engine for visualisation. This ensures cross platform compatibility for Windows, Macintosh, and Linux. Other dependencies are required for the files in the beta folder and are beyond the scope of this document.
+= Dependency Links and Descriptions =
 
 Windows and Mac users can get python here:
     http://www.python.org/download/
