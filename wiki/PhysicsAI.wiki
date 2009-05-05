@@ -1,6 +1,5 @@
-#summary One-sentence summary of this page.
+#summary A description of the physics and artificial intelligence used in stableorbit
 #labels Phase-Design,Phase-Implementation,Featured
-A description of the physics and artificial intelligence used in stableorbit
 = Introduction =
 Stableorbit didn't always produce pretty elliptical orbits. The searching algorithm required a great deal of tuning. 
 
