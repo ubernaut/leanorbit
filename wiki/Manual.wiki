@@ -43,7 +43,7 @@ Afterwards the stars will load into the black window and you'll know the client 
 
 The system is now loaded but we are too close to see it. Hold the right-mouse button and push your mouse slowly up to zoom out.  
 
-Client Navigation
+= Client Navigation =
  The mouse is used to change views while using the client.
 
     *  The left-mouse button is used for panning
