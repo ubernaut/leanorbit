@@ -26,7 +26,7 @@ Mac users can download this subversion installer:
      http://www.codingmonkeys.de/mbo/
 
 The *StableOrbit* code can be used for all Operating Systems. Non subversion users can get a zip archive of the file here:
-     http://stableorbit.googlecode.com/files/stableorbit.zip
+     http://stableorbit.googlecode.com/files/stableorbit-r60.zip
 
 Command-line Subversion users can get it using the following command:
       svn checkout http://stableorbit.googlecode.com/svn/trunk/ stableorbit-read-only
