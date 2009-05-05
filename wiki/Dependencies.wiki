@@ -3,7 +3,7 @@
 
 = Required Software =
 
-StableOrbit is built on Python2.5 and uses the Panda3d engine for visualisation. This ensures cross platform compatibility for Windows, Macintosh, and Linux. Other dependencies are required for the files in the beta folder but are under development and beyond the scope of this document.
+StableOrbit is built on Python2.5 and uses the Panda3d engine for visualisation. This ensures cross platform compatibility for Windows, Macintosh, and Linux. Other dependencies are required for the files in the beta folder but are currently under development and beyond the scope of this document.
 
 = Dependency Links and Descriptions =
 
